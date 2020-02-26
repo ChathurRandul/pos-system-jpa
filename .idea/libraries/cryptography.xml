@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="cryptography">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/cryptography" />
+      <root url="file://$PROJECT_DIR$/lib/jfoenix" />
+      <root url="file://$PROJECT_DIR$/lib/mysql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/cryptography" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jfoenix" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/mysql" recursive="false" />
+  </library>
+</component>
