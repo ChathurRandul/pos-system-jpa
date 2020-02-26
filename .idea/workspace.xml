@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YL2rUVuxYfrTGlqU0ZxBNvcvvZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -17,7 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pos-system-jdbc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -52,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582707752068</updated>
-      <workItem from="1582707753526" duration="1991000" />
+      <workItem from="1582707753526" duration="2163000" />
     </task>
     <servers />
   </component>
@@ -64,22 +68,22 @@
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
     <state x="602" y="294" width="744" height="512" key="FileChooserDialogImpl/48.28.1872.1052@48.28.1872.1052" timestamp="1582708795218" />
-    <state width="1822" height="276" key="GridCell.Tab.0.bottom" timestamp="1582709750193">
+    <state width="1822" height="276" key="GridCell.Tab.0.bottom" timestamp="1582709918737">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
-    <state width="1822" height="276" key="GridCell.Tab.0.bottom/48.28.1872.1052@48.28.1872.1052" timestamp="1582709750193" />
-    <state width="1822" height="276" key="GridCell.Tab.0.center" timestamp="1582709750192">
+    <state width="1822" height="276" key="GridCell.Tab.0.bottom/48.28.1872.1052@48.28.1872.1052" timestamp="1582709918737" />
+    <state width="1822" height="276" key="GridCell.Tab.0.center" timestamp="1582709918735">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
-    <state width="1822" height="276" key="GridCell.Tab.0.center/48.28.1872.1052@48.28.1872.1052" timestamp="1582709750192" />
-    <state width="1822" height="276" key="GridCell.Tab.0.left" timestamp="1582709750191">
+    <state width="1822" height="276" key="GridCell.Tab.0.center/48.28.1872.1052@48.28.1872.1052" timestamp="1582709918735" />
+    <state width="1822" height="276" key="GridCell.Tab.0.left" timestamp="1582709918734">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
-    <state width="1822" height="276" key="GridCell.Tab.0.left/48.28.1872.1052@48.28.1872.1052" timestamp="1582709750191" />
-    <state width="1822" height="276" key="GridCell.Tab.0.right" timestamp="1582709750192">
+    <state width="1822" height="276" key="GridCell.Tab.0.left/48.28.1872.1052@48.28.1872.1052" timestamp="1582709918734" />
+    <state width="1822" height="276" key="GridCell.Tab.0.right" timestamp="1582709918736">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
-    <state width="1822" height="276" key="GridCell.Tab.0.right/48.28.1872.1052@48.28.1872.1052" timestamp="1582709750192" />
+    <state width="1822" height="276" key="GridCell.Tab.0.right/48.28.1872.1052@48.28.1872.1052" timestamp="1582709918736" />
     <state x="467" y="131" width="1024" height="843" key="SettingsEditor" timestamp="1582708173828">
       <screen x="48" y="28" width="1872" height="1052" />
     </state>
